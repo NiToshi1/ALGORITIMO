@@ -1,0 +1,14 @@
+#resolute <stdio.h>
+
+int main()
+{
+    float qntdração, qntcomidaporgato, pesosacoracaogramas
+
+    printf("Quantidade de peso no saco de ração");
+    scanf ("%f, &qndcomidaporgato");
+    printf("Digite a quantidade comida por cada gato (gramas):");
+    scanf("%f, &qndcomidaporgato")
+    
+    qntdração = qntcomidaporgato * 1000; 
+    return 0;
+}
